@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaS", "AgendaS\AgendaS.csproj", "{280A2642-2476-44EA-959D-62DE41143A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280A2642-2476-44EA-959D-62DE41143A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280A2642-2476-44EA-959D-62DE41143A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280A2642-2476-44EA-959D-62DE41143A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280A2642-2476-44EA-959D-62DE41143A02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
